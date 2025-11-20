@@ -19,14 +19,6 @@ A telepítés során a script gondoskodik a domain beállításáról, HTTPS tan
 
 ---
 
-## 🖥️ Tesztelt környezet
-
-- **OS:** Debian 13 (VPS környezet)  
-- **Script készítője:** Doky  
-- **Dátum:** 2025.11.20.  
-
----
-
 ## 📦 Telepítés
 
 1.  **Hozz létre egy fájlt, például `uptime_kuma_telepito.sh` néven:**
@@ -45,3 +37,11 @@ A telepítés során a script gondoskodik a domain beállításáról, HTTPS tan
     ```bash
     sudo ./uptime_kuma_telepito.sh
     ```
+
+---
+
+## 🖥️ Tesztelt környezet
+
+- **OS:** Debian 13 (VPS környezet)  
+- **Script készítője:** Doky  
+- **Dátum:** 2025.11.20.  
