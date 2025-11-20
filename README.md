@@ -29,8 +29,19 @@ A telepítés során a script gondoskodik a domain beállításáról, HTTPS tan
 
 ## 📦 Telepítés
 
-1. **Script letöltése és futtatása:**
-   ```bash
-   wget https://github.com/<repo>/install.sh
-   chmod +x install.sh
-   sudo ./install.sh
+1.  **Hozz létre egy fájlt, például `uptime_kuma_telepito.sh` néven:**
+    ```bash
+    nano uptime_kuma_telepito.sh 
+    ```
+    - Majd illeszd be az itt található script tartalmát, és mentsd el.
+
+2.  **Adj neki futási jogot:**
+
+    ```bash
+    chmod +x uptime_kuma_telepito.sh
+    ```
+    
+3. **Most pedig indítsd el:**
+    ```bash
+    sudo ./uptime_kuma_telepito.sh
+    ```
