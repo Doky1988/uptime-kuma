@@ -21,7 +21,7 @@ A telepítés során a script gondoskodik a domain beállításáról, HTTPS tan
 
 ## 📦 Telepítés
 
-1.  **Hozz létre egy fájlt, például `uptime_kuma_telepito.sh` néven:**
+1.  **Hozz létre egy fájlt SSH-n:**
     ```bash
     nano uptime_kuma_telepito.sh 
     ```
